@@ -11989,7 +11989,7 @@ used_for_random = no
 	culture ="maghreb_arabic"
 }
 12204 = {
-	name = "al-Ammarí"
+	name = "al-Ammárí"
 	culture ="andalusian_arabic"
 }
 12205 = {
