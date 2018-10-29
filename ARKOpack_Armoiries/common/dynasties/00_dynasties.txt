@@ -12005,7 +12005,7 @@ used_for_random = no
 	culture ="maghreb_arabic"
 }
 12208 = {
-	name = "al-Rasiqí"
+	name = "al-Qushayrí"
 	culture ="andalusian_arabic"
 }
 12209 = {
@@ -26082,7 +26082,7 @@ used_for_random = no
 	culture = bedouin_arabic
 }
 1029055 = {
-	name="al-Adárisa" #Idrisid
+	name="al-Idrísí"
 	culture ="maghreb_arabic"
 }
 1042023 = {
